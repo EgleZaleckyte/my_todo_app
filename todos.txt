@@ -1,0 +1,8 @@
+atsikelti 9 ryto
+paruosti zaidimus
+pietų gaminimas
+paskaityti
+Naujas punktas
+Master Python
+testavimas
+web testas
